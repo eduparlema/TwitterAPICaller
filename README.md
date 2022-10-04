@@ -21,8 +21,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/105069549/193930681-c818e5b2-a517-424e-97ca-a87a037a7158.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
